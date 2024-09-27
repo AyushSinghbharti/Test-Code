@@ -1,6 +1,7 @@
 {
   "expo": {
     "name": "InternProject2",
+    "scheme": "internproject2",
     "slug": "InternProject2",
     "version": "1.0.0",
     "orientation": "portrait",
